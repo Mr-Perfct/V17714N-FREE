@@ -283,4 +283,4 @@ def mumitx(uid,pwx,tl):
         pass
 
 #-----[Run Menu]-----#
-himu_menu()
+mumit_menu()
